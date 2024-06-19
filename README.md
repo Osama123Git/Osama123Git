@@ -2,8 +2,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Hello!+My+Name+is+Osama,;Welcome+To+My+Github+Profile..♥"></a>
 </p>
 
-
 <br>
+<hr>
 <!--
 <h1 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="30px" style="max-width: 100%;"><!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">--<
 	My Name is Osama, Welcome To My Github Profile ♥</h1>-->
