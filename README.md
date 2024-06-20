@@ -53,7 +53,7 @@
 )](https://www.linkedin.com/in/osama-sadiq-alshaya-5165bb312/)
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osamasadeq001/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&target="_blank")](https://x.com/xPF1wmnDgeu8Rt4)
-<a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+<a href="https://t.me/osama_sadiq"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-339933?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=967711285254&text&type=phone_number&app_absent=0)
 <!--[![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amrsayed74)-->
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:AmrSaaayed74@gmail.com)-->
